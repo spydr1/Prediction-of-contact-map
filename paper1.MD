@@ -13,6 +13,6 @@ Using marginal and pair frequencies for each pair of amino acids as described ab
 -> For a given pair of amino acid types, pair frequencies or covariances are composed as an mxm matrix, where m is the number of columns in the sequence alignment. Considering 20 amino acid typesþ gap, there are 21x21 = 441 
 
 ### Input matrix = 441 x m x m 
-(number of columns in the sequence alignment = m) 
-({every pair of the 20 canonical amino acids + gap characters} = 21) 
-(21 x 21 = 441) 
+(number of columns in the sequence alignment = m)  
+({every pair of the 20 canonical amino acids + gap characters} = 21)  
+(21 x 21 = 441)  
