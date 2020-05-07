@@ -8,9 +8,9 @@ d. Amino acid
 
 ### Related method
 a. PSSM  
-b. SASA  
-c. 
-
+b. PP  
+c. SS
+d. SASA
 
 ### Input data  
 
