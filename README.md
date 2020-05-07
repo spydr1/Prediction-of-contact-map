@@ -1,14 +1,14 @@
 ## 1. Problem 
 
 ### Definition 
-a. DNA
-b. Protein
-c. Chain
-d. Amino acid
+a. DNA  
+b. Protein  
+c. Chain  
+d. Amino acid  
 
 ### Related method
-a. PSSM
-b. SASA
+a. PSSM  
+b. SASA  
 c. 
 
 
