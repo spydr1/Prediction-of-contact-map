@@ -10,7 +10,7 @@ For each pair of columns in the input alignment, the probability of observing ev
 ### Covariance 
 Using marginal and pair frequencies for each pair of amino acids as described above, we calculate the covariance between every pair of residues at every pair of sites, and use these as an alternative set of input features.
 
--> For a given pair of amino acid types, pair frequencies or covariances are composed as an mxm matrix, where m is the number of columns in the sequence alignment. Considering 20 amino acid typesþ gap, there are 21x21 = 441 
+-> For a given pair of amino acid types, pair frequencies or covariances are composed as an mxm matrix, where m is the number of columns in the sequence alignment. Considering 20 amino acid types + gap, there are 21x21 = 441 
 
 ### Input matrix = 441 x m x m 
 (number of columns in the sequence alignment = m)  
