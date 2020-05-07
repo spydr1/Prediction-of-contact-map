@@ -12,6 +12,15 @@ b. SASA
 c. 
 
 
-### Input data 
+### Input data  
+
+Protein | Chain | PSSM | PP | SS | SASA
+
+### Tartget data 
+
+a. structure of protein (= angle, position)
+b. distance map or contact map 
 
 ## 2. related work 
+
+1. 
