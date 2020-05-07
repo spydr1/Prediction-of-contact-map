@@ -1,3 +1,4 @@
+# High precision in protein contact prediction using fully convolutional neural networks and minimal sequence features
 
 ## Input feature 
 
@@ -10,6 +11,5 @@ as done for MetaPSICOV input. \
 
 ##### by MetaPSICOV (Jones et al., 2015)
 
-### Covariance: Using marginal and pair frequencies for each pair of
-amino acids as described above, we calculate the covariance between every pair of residues at every pair of sites, and use these as an
-alternative set of input features.
+### Covariance 
+Using marginal and pair frequencies for each pair of amino acids as described above, we calculate the covariance between every pair of residues at every pair of sites, and use these as an alternative set of input features.
