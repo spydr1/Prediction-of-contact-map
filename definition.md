@@ -20,10 +20,13 @@
 * FASTA 
 
 
+
 ## DATA
 
-Protein | Chain | 
+Protein | Chain | PSSM | PP | SASA | FASTA 
 
 ## Distance map
+* 아미노산과의 거리 
 
 ## Contact map
+* 거리를 불연속적인 방식으로 표현 (d < 8A = T, >8A = F)
