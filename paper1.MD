@@ -14,5 +14,5 @@ Using marginal and pair frequencies for each pair of amino acids as described ab
 
 ### Input matrix = 441 x m x m 
 (number of columns in the sequence alignment = m)  
-({every pair of the 20 canonical amino acids + gap characters} = 21)  
+(every pair of the 20 canonical amino acids + gap characters = 21)  
 (21 x 21 = 441)  
