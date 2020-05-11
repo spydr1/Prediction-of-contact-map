@@ -31,3 +31,9 @@ Protein | Chain | PSSM | PP | SASA | FASTA
 
 ## Contact map
 * 거리를 불연속적인 방식으로 표현 (d < 8A = T, >8A = F)
+
+## Environment
+  
+https://medium.com/@ivan.vasquez/a-deterministic-procedure-to-configure-an-nvidia-gpu-for-data-science-on-ubuntu-18-10-f68429b2e97e
+
+* ubuntu = 18.10 , cuda = 10.1 , driver version = 435.21 , cuDNN = 7.6.4
