@@ -18,6 +18,7 @@
 * PP
 * SASA
 * FASTA 
+* MSA - http://www.incodom.kr/Multiple_alignment
 
 
 
