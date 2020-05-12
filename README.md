@@ -1,7 +1,6 @@
-## 1. Problem 
+## 1. Problem - We know the protein structure
 
 ### Definition 
-* We know the protein structure
 * DNA  
 * Protein  
 * Chain  
