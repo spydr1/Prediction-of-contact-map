@@ -1,4 +1,4 @@
-## 1. Problem - We know the protein structure
+## 1. Problem - We want to know the protein structure
 
 ### Definition 
 * DNA  
