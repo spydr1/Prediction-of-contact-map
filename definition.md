@@ -27,7 +27,7 @@
 Protein | Chain | PSSM | PP | SASA | FASTA 
 
 ## Distance map
-* 아미노산과의 거리 
+* 각 아미노산과의 거리맵 (거리가 가까울수록 서로에게 큰 영향을 미친다.) 
 
 ## Contact map
 * 거리를 불연속적인 방식으로 표현 (d < 8A = T, >8A = F)
