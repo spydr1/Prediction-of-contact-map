@@ -34,6 +34,5 @@ Protein | Chain | PSSM | PP | SASA | FASTA
 
 ## Environment
   
-https://medium.com/@ivan.vasquez/a-deterministic-procedure-to-configure-an-nvidia-gpu-for-data-science-on-ubuntu-18-10-f68429b2e97e
-
+* setting - https://medium.com/@ivan.vasquez/a-deterministic-procedure-to-configure-an-nvidia-gpu-for-data-science-on-ubuntu-18-10-f68429b2e97e
 * ubuntu = 18.10 , cuda = 10.1 , driver version = 435.21 , cuDNN = 7.6.4
