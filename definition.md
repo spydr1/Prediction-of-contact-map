@@ -1,7 +1,7 @@
 ## DNA -> Protein
 
 * DNA가 단백질을 생섬함
-* desc : DNA -> RNA -> () -> Protein  
+* DNA -> RNA -> () -> Protein  
 
 
 
