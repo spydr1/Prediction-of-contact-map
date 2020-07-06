@@ -42,3 +42,12 @@ https://doi.org/10.1093/bioinformatics/btu500
 5. https://www.cathdb.info/
 -> 1. data만들때 CATH 35% sequence similarity cluster 에서 추출. - 31,247 (keeping all domains from the same homologous superfamily (H-level in the CATH classification)
 
+
+
+## 3. evaluation 
+
+1. RMSD  
+https://en.wikipedia.org/wiki/Root-mean-square_deviation_of_atomic_positions  
+
+2. TM-score  
+https://en.wikipedia.org/wiki/Template_modeling_score
