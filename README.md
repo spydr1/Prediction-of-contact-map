@@ -51,3 +51,8 @@ https://en.wikipedia.org/wiki/Root-mean-square_deviation_of_atomic_positions
 
 2. TM-score  
 https://en.wikipedia.org/wiki/Template_modeling_score
+
+## 4. data
+
+1. MSA (hhblits) -> plmDCA -> input matrix (residu length x residu length x 484)
+
