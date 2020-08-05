@@ -54,5 +54,5 @@ https://en.wikipedia.org/wiki/Template_modeling_score
 
 ## 4. data
 0. CATH34 35% sequence similarity cluster (alphafold의 방식, 일단 alphafold의 data로 비교.)
-1. MSA (hhblits) -> plmDCA -> input matrix (residu length x residu length x 484)
+1. MSA \[hhblits] \[1] -> plmDCA -> input matrix (residu length x residu length x 484)
 
