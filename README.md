@@ -46,11 +46,14 @@ https://doi.org/10.1093/bioinformatics/btu500
 
 ## 3. evaluation 
 
-1. RMSD  
+1. Root mean square deviation (RMSD)  
 https://en.wikipedia.org/wiki/Root-mean-square_deviation_of_atomic_positions  
 
-2. TM-score  
+2. Template modeling score (TM-score)  
 https://en.wikipedia.org/wiki/Template_modeling_score
+
+3. Global distance test total score (GDT_TS)
+https://en.wikipedia.org/wiki/Global_distance_test
 
 ## 4. data
 0. CATH34 35% sequence similarity cluster (alphafold의 방식, 일단 alphafold의 data로 비교.)
