@@ -52,7 +52,7 @@ https://en.wikipedia.org/wiki/Root-mean-square_deviation_of_atomic_positions
 2. Template modeling score (TM-score)  
 https://en.wikipedia.org/wiki/Template_modeling_score
 
-3. Global distance test total score (GDT_TS)
+3. Global distance test total score (GDT_TS)  
 https://en.wikipedia.org/wiki/Global_distance_test
 
 ## 4. data
